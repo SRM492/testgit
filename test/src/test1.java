@@ -8,4 +8,8 @@ public class test1 {
 	int f;
 	int g;
 	int te;
+	public static void main(String args[])
+	{
+		System.out.println("Hello World!");
+	}
 }
